@@ -8,3 +8,5 @@ try (BufferedInputStream in = new BufferedInputStream(new URL(FILE_URL).openStre
 } catch (IOException e) {
     // handle exception
 }
+
+this is my file
